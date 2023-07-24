@@ -1,10 +1,12 @@
 # tag-html-dwiananda
 <h1>tag html</h1>
-Di bawah ini adalah tag tag kode program pada html.
+Di bawah ini adalah tag tag kode program pada html.#
 
 <h2>Nama Tag	    Keterangan / Kegunaan</h2>
 
-Basic
+## Basic
+
+![Logo R](https://4.bp.blogspot.com/-g5-vguBv564/WcPbcswBrmI/AAAAAAAAAzE/taZhAXQsmC0H7YGAy7Y9_t3N6y4T32otACLcBGAs/s1600/table1.PNG)
 
 <!DOCTYPE>	  Tag untuk menentukan tipe dokumen
 <html>	      Tag untuk membuat sebuah dokumen HTML
